@@ -23,11 +23,27 @@ Este repositório contém a solução de três desafios de grafos do juiz online
 
 ## 📸 Screenshots
 <p align="center">
+  <img src="img/1579.png" alt="Resultado da submissão do desafio 1579">
+</p>
+
+<p align="center">
+  Resultado da submissão da solução para o desafio 1579.
+</p>
+
+<p align="center">
   <img src="img/1761.png" alt="Resultado da submissão do desafio 1761">
 </p>
 
 <p align="center">
   Resultado da submissão da solução para o desafio 1761.
+</p>
+
+<p align="center">
+  <img src="img/797.png" alt="Resultado da submissão do desafio 797">
+</p>
+
+<p align="center">
+  Resultado da submissão da solução para o desafio 797.
 </p>
 
 
