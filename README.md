@@ -55,3 +55,10 @@ Para testar cada desafio:
 
 ## 📚 Outros
 Este projeto visa exercitar conceitos de grafos, abordando diferentes níveis de dificuldade em problemas propostos no LeetCode, focando em construção de grafos, manipulação de arestas e algoritmos de otimização.
+
+## 🎥 Entrega de Vídeo
+
+Para complementar a explicação das soluções e facilitar o entendimento dos conceitos aplicados em cada desafio, incluímos uma apresentação em vídeo.
+
+### 📹 Link para o Vídeo
+[Entrega de Grafos 1](https://youtu.be/UfoFLqZOPqU)
