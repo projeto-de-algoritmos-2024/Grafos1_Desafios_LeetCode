@@ -10,16 +10,16 @@
 | 20/2023968  | Miguel Moreira   |
 
 ## 📝 Sobre
-Este repositório contém a solução de três desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1579** e **1761**, e a questão de dificuldade média número **3133**.
+Este repositório contém a solução de três desafios de grafos do juiz online LeetCode. Foram resolvidas as questões difíceis de números **1579** e **1761**, e a questão de dificuldade média número **797**.
+
+**Tecnologias Utilizadas**: Javascript e Python
 
 ### Desafios Solucionados
 | Código | Desafio                                                                                                     | Dificuldade |
 |--------|-------------------------------------------------------------------------------------------------------------|-------------|
 | 1579   | [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/) | Difícil     |
 | 1761   | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | Difícil     |
-| 3133   | [Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/)                           | Média       |
-
-**Tecnologias Utilizadas** JavaScript e Python
+| 797   | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)                           | Média       |
 
 ## 📸 Screenshots
 <p align="center">
