@@ -19,6 +19,9 @@ Este repositório contém a solução de três desafios de grafos do juiz online
 | 1761   | [Minimum Degree of a Connected Trio in a Graph](https://leetcode.com/problems/minimum-degree-of-a-connected-trio-in-a-graph/description/) | Difícil     |
 | 3133   | [Minimum Array End](https://leetcode.com/problems/minimum-array-end/description/)                           | Média       |
 
+### Tecnologias Utilizadas
+JavaScript
+
 ## 📸 Screenshots
 <p align="center">
   <img src="img/1761.png" alt="Resultado da submissão do desafio 1761">
